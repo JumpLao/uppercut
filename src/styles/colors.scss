@@ -1,0 +1,12 @@
+$primary: rgb(234,152,63);
+$danger: red;
+$tablet: 769px;
+// 960px container + 40px
+$desktop: 1000px;
+// 1152px container + 40
+$widescreen: 1000px;
+// 1344px container + 40
+$fullhd: 1000px;
+
+$radius: 0px;
+@import '~bulma/sass/utilities/_all.sass';

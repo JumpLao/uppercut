@@ -1,0 +1,25 @@
+@import url(//fonts.googleapis.com/css?family=Cabin);
+body{
+  .cabin{
+    font-family: Cabin;
+  }
+}
+.has-uppercase{
+  text-transform:uppercase;
+}
+.has-bold{
+  font-weight:bolder !important;
+}
+.fire-bg{
+  background-image: url(/static/assets/tab.png);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  padding-left: 20px;
+  padding-right:15%;
+  padding-top:5px;
+  padding-bottom:5px;
+  color: white;
+}
+.is-white{
+  color: white !important;
+}

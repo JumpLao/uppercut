@@ -1,0 +1,16 @@
+.button {
+  &.more-padding{
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  &.more-margin{
+    margin-left:20px;
+    margin-right:20px;
+  }
+}
+a, button{
+  &.button.is-primary.is-outlined{
+    border-color:white;
+    color: white;
+  }
+}
